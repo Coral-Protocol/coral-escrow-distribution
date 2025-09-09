@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>org.coralprotocol.payment</groupId>
+  <artifactId>blockchain</artifactId>
+  <version>0.0.4</version>
+  <packaging>pom</packaging>
+  <name>Coral Blockchain</name>
+  <description>Kotlin blockchain interface with FFI bridge to Rust for Coral Protocol payment system</description>
+  <url>https://github.com/Coral-Protocol/coral-escrow-distribution</url>
+  <licenses>
+    <license>
+      <name>Apache License 2.0</name>
+      <url>https://www.apache.org/licenses/LICENSE-2.0</url>
+    </license>
+  </licenses>
+  <developers>
+    <developer>
+      <id>coral-protocol</id>
+      <name>Coral Protocol Team</name>
+      <email>team@coralprotocol.org</email>
+    </developer>
+  </developers>
+  <scm>
+    <connection>scm:git:git://github.com/Coral-Protocol/coral-escrow-distribution.git</connection>
+    <developerConnection>scm:git:ssh://github.com/Coral-Protocol/coral-escrow-distribution.git</developerConnection>
+    <url>https://github.com/Coral-Protocol/coral-escrow-distribution</url>
+  </scm>
+</project>
