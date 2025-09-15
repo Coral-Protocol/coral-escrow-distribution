@@ -1,0 +1,128 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "org.coralprotocol.payment",
+    "module": "blockchain",
+    "version": "0.0.5",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.5"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "files": [
+        {
+          "name": "blockchain-0.0.5.jar",
+          "url": "blockchain-0.0.5.jar",
+          "size": 1031370,
+          "sha512": "1c4399c7a1a5d02c86c875d278e896818c44bb9aaa02ff137965dadbfc8d0ea39c7cb5e4db8b8111f05fe5dcd651dda7a951bcde68e5942d2ae927fd8cdf214e",
+          "sha256": "9634be804513a25f84a12e52c2674380901a61a7c0a9ef9359fb06c329fa207f",
+          "sha1": "69a10c2eaeb753dbd9a5e060ede10d0a2502511c",
+          "md5": "f7ce5e6e567b49717bbf824431bad733"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "com.google.protobuf",
+          "module": "protobuf-java",
+          "version": {
+            "requires": "3.25.1"
+          }
+        },
+        {
+          "group": "com.google.protobuf",
+          "module": "protobuf-kotlin",
+          "version": {
+            "requires": "3.25.1"
+          }
+        },
+        {
+          "group": "net.java.dev.jna",
+          "module": "jna",
+          "version": {
+            "requires": "5.14.0"
+          }
+        },
+        {
+          "group": "io.github.microutils",
+          "module": "kotlin-logging-jvm",
+          "version": {
+            "requires": "3.0.5"
+          }
+        },
+        {
+          "group": "ch.qos.logback",
+          "module": "logback-classic",
+          "version": {
+            "requires": "1.4.14"
+          }
+        },
+        {
+          "group": "org.bitcoinj",
+          "module": "bitcoinj-core",
+          "version": {
+            "requires": "0.16.2"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "blockchain-0.0.5.jar",
+          "url": "blockchain-0.0.5.jar",
+          "size": 1031370,
+          "sha512": "1c4399c7a1a5d02c86c875d278e896818c44bb9aaa02ff137965dadbfc8d0ea39c7cb5e4db8b8111f05fe5dcd651dda7a951bcde68e5942d2ae927fd8cdf214e",
+          "sha256": "9634be804513a25f84a12e52c2674380901a61a7c0a9ef9359fb06c329fa207f",
+          "sha1": "69a10c2eaeb753dbd9a5e060ede10d0a2502511c",
+          "md5": "f7ce5e6e567b49717bbf824431bad733"
+        }
+      ]
+    },
+    {
+      "name": "shadowRuntimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "shadowed",
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "blockchain-0.0.5-all.jar",
+          "url": "blockchain-0.0.5-all.jar",
+          "size": 36400703,
+          "sha512": "f3a229f0902f747430943011291f87fa458e42188baf8d75e8cf80e225f8713e25fcd197e2f4bc562604807b4e201e103a3e7d96270c097869cc85019b27dfe0",
+          "sha256": "e00c7075fff32b8f1ff5df4cd3a52182c490c6fe88469fa59e56a582e24a3745",
+          "sha1": "c4185bacbf4dd6e5cc0b1c0a0fef46de0e84494a",
+          "md5": "66315fe16b7b90b248679a8d671ea35c"
+        }
+      ]
+    }
+  ]
+}
