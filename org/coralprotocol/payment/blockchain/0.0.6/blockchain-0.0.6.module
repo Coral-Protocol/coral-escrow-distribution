@@ -30,10 +30,10 @@
           "name": "blockchain-0.0.6.jar",
           "url": "blockchain-0.0.6.jar",
           "size": 1292352,
-          "sha512": "5327ddae7fb9e10f5d3703f35627e1ec52d7f0b0aaceba3126345682144ddb60b3c818f52f06e85fa4d7aba996e77535cab1d6b54d69e712b39e081592a5cc4a",
-          "sha256": "d6796d6517365cfaddef3f47c90c83eafc94c4719b72208969fa792ec316af64",
-          "sha1": "85da87e48a99edcd86480a2182cb0903d8f5344d",
-          "md5": "9b14a14d2a5e1b21042088e8203cf746"
+          "sha512": "7c9969f9d61084c08e4acea1f5c1fc930caad5181db0138ff3f4817345b34417a1f16de03ec48dd22582982ab268c8221e1a9bb4676582f313dd299895824d5e",
+          "sha256": "97cafa32cd5432a79a02b7a33aa422a7cc1ad3fdd3a3345affe7825a74ccbd06",
+          "sha1": "e6fd06a6cef57ccd4dbfa43afb265806d9382f98",
+          "md5": "db7babcd6c194f5cf951209b8df3b79c"
         }
       ]
     },
@@ -97,10 +97,10 @@
           "name": "blockchain-0.0.6.jar",
           "url": "blockchain-0.0.6.jar",
           "size": 1292352,
-          "sha512": "5327ddae7fb9e10f5d3703f35627e1ec52d7f0b0aaceba3126345682144ddb60b3c818f52f06e85fa4d7aba996e77535cab1d6b54d69e712b39e081592a5cc4a",
-          "sha256": "d6796d6517365cfaddef3f47c90c83eafc94c4719b72208969fa792ec316af64",
-          "sha1": "85da87e48a99edcd86480a2182cb0903d8f5344d",
-          "md5": "9b14a14d2a5e1b21042088e8203cf746"
+          "sha512": "7c9969f9d61084c08e4acea1f5c1fc930caad5181db0138ff3f4817345b34417a1f16de03ec48dd22582982ab268c8221e1a9bb4676582f313dd299895824d5e",
+          "sha256": "97cafa32cd5432a79a02b7a33aa422a7cc1ad3fdd3a3345affe7825a74ccbd06",
+          "sha1": "e6fd06a6cef57ccd4dbfa43afb265806d9382f98",
+          "md5": "db7babcd6c194f5cf951209b8df3b79c"
         }
       ]
     },
@@ -117,10 +117,10 @@
           "name": "blockchain-0.0.6-all.jar",
           "url": "blockchain-0.0.6-all.jar",
           "size": 36671213,
-          "sha512": "5696d9a8dc2c18d14fe7d476fc1a8d2bcfd3c7f86e6209f238cf1b436943ec9cb764f2e93c0b25c547e9fa003acc1cd188455a69ba9d17b6d78f71ef34933f3e",
-          "sha256": "031ae1473ba97af9cdc7ea46c0cb9fe52ce328dcbebbf95a5f498e1da780c638",
-          "sha1": "e7fe9b06497ce7b2f3e4c3c46ab92f579dd48cad",
-          "md5": "edd78dcfefbcd84d45a922f0325f0484"
+          "sha512": "ad5873552e5cef4bf1564566508ccb17c0d9ce267c17fd65ef41ce0d4b0a670956e7bd088a90ad3f91075024098513d933540b5a48a3d7a7fe0afb0c0176c41a",
+          "sha256": "4ecd624c9e07cf3c34bac19bda1c9c1c8da72066ec5ef104b3c5906492f7dcc5",
+          "sha1": "0efaa420e861ed05366762aafd97474ba0bfe975",
+          "md5": "cfd2e5fd72ad28e2732f3fe6ca459dae"
         }
       ]
     }
